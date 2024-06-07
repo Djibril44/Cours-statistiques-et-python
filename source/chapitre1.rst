@@ -21,3 +21,6 @@ Cette section contient des définitions importantes.
 .. admonition:: Définition: Sphinx
 
    Sphinx est un générateur de documentation qui convertit des fichiers reStructuredText en formats HTML, LaTeX, PDF, etc.
+
+Grammaire
+---------
